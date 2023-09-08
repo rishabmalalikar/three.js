@@ -18,7 +18,7 @@ The aim of the project is to create an easy to use, lightweight, cross-browser, 
 [Questions](https://stackoverflow.com/questions/tagged/three.js) &mdash;
 [Forum](https://discourse.threejs.org/) &mdash;
 [Discord](https://discord.gg/56GBJwAnUS)
-###rishab
+### rishab
 
 ### Usage
 
